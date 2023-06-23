@@ -2,7 +2,6 @@
 
 This is the final portfolio project of Big Data module at Herald College Kathmandu
 
-## Project Report
-![recommendation](Project_Report.pdf)
+Please view the project report pdf file on this repository, which was written using LATEX.
 
 
